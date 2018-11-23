@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mindworx/Documents/Android/Backup_WW_Android_2_oct_2018/WW3-Android/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/mindworx/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/f0a0000c43c6c7d1c18a5a13dab9d19b/res/values/values.xml",
@@ -72,24 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mindworx/Documents/Android/Backup_WW_Android_2_oct_2018/WW3-Android/platforms/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "160,55,101",
-                        "endColumns": "63,45,58",
-                        "endOffsets": "219,96,155"
-                    },
-                    "to": {
-                        "startLines": "83,84,110",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4669,4733,7838",
-                        "endColumns": "63,45,58",
-                        "endOffsets": "4728,4774,7892"
-                    }
-                },
-                {
-                    "source": "/Users/mindworx/Documents/Android/Backup_WW_Android_2_oct_2018/WW3-Android/platforms/android/app/build/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -103,6 +86,23 @@
                         "startOffsets": "6996,7222,7331,7413,7517,7620,7740",
                         "endColumns": "143,108,81,103,102,119,97",
                         "endOffsets": "7135,7326,7408,7512,7615,7735,7833"
+                    }
+                },
+                {
+                    "source": "/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "160,55,101",
+                        "endColumns": "63,45,58",
+                        "endOffsets": "219,96,155"
+                    },
+                    "to": {
+                        "startLines": "83,84,110",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4669,4733,7838",
+                        "endColumns": "63,45,58",
+                        "endOffsets": "4728,4774,7892"
                     }
                 },
                 {
