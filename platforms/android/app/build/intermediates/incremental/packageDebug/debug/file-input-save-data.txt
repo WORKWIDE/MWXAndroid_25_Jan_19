@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 23 11:42:55 IST 2018
+#Fri Jan 25 15:12:34 IST 2019
 20.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 143.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 340.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xxhdpi-v4/googleg_standard_color_18.png
@@ -218,7 +218,7 @@
 115.set=ASSET
 78.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 398.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug/www/css/jquery.mobile-1.4.5/images/icons-png/arrow-u-l-black.png
-228.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+228.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/xml/config.xml
 400.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 368.set=ANDROID_RESOURCE
 40.set=ASSET
@@ -299,7 +299,7 @@
 230.set=ASSET
 373.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 203.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar
-220.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png
+220.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/notification_template_media.xml
 236.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 361.set=ASSET
 269.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
@@ -572,7 +572,7 @@
 185.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug/www/css/jquery.mobile-1.4.5/images/icons-svg/bars-white.svg
 339.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 95.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug/www/js/signaturepad.js
-219.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/notification_template_media.xml
+219.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png
 72.set=ASSET
 220.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_
 323.set=ASSET
@@ -917,7 +917,7 @@
 125.set=ASSET
 79.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 399.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug/www/css/jquery.mobile-1.4.5/images/icons-svg/clock-black.svg
-229.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/xml/config.xml
+229.file=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
 230.base=/Users/mindworx/Documents/Android/AndroidWorkspace/MWXAndroid/platforms/android/app/build/intermediates/assets/debug
 378.set=ASSET
 50.set=ASSET

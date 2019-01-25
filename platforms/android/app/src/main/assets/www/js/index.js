@@ -512,7 +512,7 @@ function getDateTime() {
 $(document).on("pageshow", function(event, data) {
     $(".pagemargin").removeClass("addOpacity");
     $(".versioncode").html("");
-    $(".versioncode").html("Version 2.5");
+    $(".versioncode").html("Version 2.6");
     localStorage.setItem("previous_page_id", "");
     localStorage.setItem("previous_page_id", data.prevPage.attr('id'));
     var activePage = $.mobile.pageContainer.pagecontainer("getActivePage");
@@ -998,7 +998,7 @@ var webServiceUrl = "http://qwork-demo.quintica.com/Api/";
 //var webServiceUrl="http://app.workwidemobile.com/Api/";
 
 // ---------------------------- Local Server Url -------------------------
-//var webServiceUrl="http://192.168.1.149/quintica/Api/";
+//var webServiceUrl="http://192.168.1.145/quintica/Api/";
 
 //var webServiceUrl="http://192.168.1.117/quintica_www/Api/";
 // ---------------------------- Test Server Url -------------------------
@@ -1244,7 +1244,7 @@ function loginIn() {
             "password": "" + $("#password").val().trim() + "",
             device_id: localStorage.getItem("DevieToken"),
             device_OS: device.platform,
-            versioncode: "2.5"
+            versioncode: "2.6"
         };
         QuinticaWebService("POST", "login", parameters, function(response) {
             console.log(parameters);
@@ -3124,6 +3124,7 @@ try{
             });
         }
     });
+
     }catch(error){
         console.log("Error in camera : "+err.message);
     }

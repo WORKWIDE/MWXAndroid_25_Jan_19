@@ -122,6 +122,15 @@ Events
 
 - statusTap
 
+Permissions
+-----------
+
+#### config.xml
+
+            <feature name="StatusBar">
+                <param name="ios-package" value="CDVStatusBar" onload="true" />
+            </feature>
+
 StatusBar.overlaysWebView
 =================
 

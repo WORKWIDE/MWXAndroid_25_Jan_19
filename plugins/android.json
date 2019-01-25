@@ -34,14 +34,14 @@
     "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "com.workwide.android"
     },
-    "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "com.workwide.android"
-    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.workwide.android"
     },
     "phonegap-plugin-push": {
       "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.workwide.android"
+    },
+    "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "com.workwide.android"
     }
   },
